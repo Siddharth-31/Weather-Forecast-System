@@ -1,4 +1,4 @@
-const weatherApiKey = "c2ccc734325d4b898d860928251404"; // Weather API Key
+const weatherApiKey = "194b62b6981c4c4598052441252404"; // Weather API Key
 const geoApiKey = "fe043084a1f54a83bb0763499096a163"; // OpenCage API Key
 let weatherChart;
 

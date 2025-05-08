@@ -31,7 +31,7 @@ Visit our deployed application: [Weather Forecast App](https://weather-forecast-
 
 ## 📱 Mobile Support
 - The application is fully responsive and works seamlessly on mobile devices, tablets, and desktop computers
-- Available as a mobile application for iOS and Android devices
+- Available as a mobile application for Android devices
 
 ## 🔮 Future Enhancements
 - Dark mode toggle
